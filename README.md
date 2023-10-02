@@ -8,7 +8,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Parsifal626&repo=Miniprojects)](https://github.com/Parsifal626/Miniprojects)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parsifal626&layout=compact)](https://github.com/Parsifal626/github-readme-stats)
-
 [![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS)](https://github.com/ruslan626/leetcode-stats)
 
 
