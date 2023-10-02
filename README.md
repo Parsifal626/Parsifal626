@@ -1,7 +1,7 @@
 <h1>Hi there, I am Parsifal</h1>
 <h3>Python backend developer, data analyst </h3>
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=Parsifal626&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
