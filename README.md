@@ -3,11 +3,13 @@
 
 
 
-<h4>Python backend developer</h4>
+
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Parsifal626&repo=dataparsing)](https://github.com/Parsifal626/dataparsing)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Parsifal626&repo=Miniprojects)](https://github.com/Parsifal626/Miniprojects)
 
-<h4>Python data analyst </h4>
+
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Parsifal626&repo=game_analitics)](https://github.com/Parsifal626/game_analitics)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Parsifal626&repo=tariff_for_mobile)](https://github.com/Parsifal626/tariff_for_mobile)
 
